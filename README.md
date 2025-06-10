@@ -1,11 +1,21 @@
-# Data Analyst
+# Portfolio
+# Projects 
 
-### Education
-B.S
+### Lung Cancer Detection
 
-### Work Experience
 
-Data analyst
 
-### Projects
-binhhuynh98.github.io
+### Tech Layoff Trends Prediction
+
+
+
+### Air Pollution Patterns and Predictions
+
+
+
+### Global AI Job & Salary Forecast
+
+
+
+### Maven Market Sales Analytic
+
